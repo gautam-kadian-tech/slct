@@ -1,0 +1,1452 @@
+ORG,SHIP_STATE,SHIP_DISTRICT,BRAND,INV_QTY
+FGA,Uttar Pradesh,BIJNOR,Bangur,50
+FGA,Uttar Pradesh,BIJNOR,Rockstrong,50
+FGA,Uttar Pradesh,BIJNOR,Shree,50
+FGA,Uttar Pradesh,MORADABAD,Rockstrong,50
+FGA,Uttar Pradesh,MUZAFFARNAGAR,Bangur,50
+FGA,Uttar Pradesh,MUZAFFARNAGAR,Shree,50
+FGA,Uttar Pradesh,RAMPUR,Bangur,50
+FGA,Uttar Pradesh,RAMPUR,Rockstrong,50
+FGA,Uttar Pradesh,RAMPUR,Shree,50
+FGA,Uttar Pradesh,SAHARANPUR,Bangur,64.73333333
+FGA,Uttar Pradesh,SAHARANPUR,Rockstrong,50
+FGA,Uttar Pradesh,SAHARANPUR,Shree,92.43233333
+FGA,Uttranchal,CHAMPAWAT,Bangur,50
+FGA,Uttranchal,CHAMPAWAT,Shree,50
+FGA,Uttranchal,DEHRADOON,Bangur,50
+FGA,Uttranchal,DEHRADOON,Rockstrong,98.1
+FGA,Uttranchal,DEHRADOON,Shree,419.4
+FGA,Uttranchal,HARIDWAR,Bangur,50
+FGA,Uttranchal,HARIDWAR,Rockstrong,50
+FGA,Uttranchal,HARIDWAR,Shree,75.59913333
+FGA,Uttranchal,NENITAL (UTT),Bangur,50
+FGA,Uttranchal,NENITAL (UTT),Shree,128.6666667
+FGA,Uttranchal,POODI GADWAL,Bangur,51.03333333
+FGA,Uttranchal,POODI GADWAL,Shree,50
+FGA,Uttranchal,UDHAM SINGH NAGAR,Bangur,50
+FGA,Uttranchal,UDHAM SINGH NAGAR,Rockstrong,50
+FGA,Uttranchal,UDHAM SINGH NAGAR,Shree,50
+FGB,Bihar,NAWADA,Shree,262.0116667
+FGB,Delhi,DELHI,Bangur,50
+FGB,Delhi,DELHI,Shree,50
+FGB,Gujarat,AHMEDABAD,Bangur,50
+FGB,Gujarat,AHMEDABAD,Shree,50
+FGB,Gujarat,ANAND,Bangur,50
+FGB,Gujarat,ANAND,Shree,50
+FGB,Gujarat,BANASKANTA,Bangur,50
+FGB,Gujarat,BANASKANTA,Shree,50
+FGB,Gujarat,CHHOTA UDAIPUR,Shree,50
+FGB,Gujarat,DAHOD,Bangur,50
+FGB,Gujarat,GANDHINAGAR,Bangur,50
+FGB,Gujarat,KHEDA,Bangur,50
+FGB,Gujarat,MAHISAGAR,Shree,50
+FGB,Gujarat,MEHSANA,Bangur,50
+FGB,Gujarat,PANCHMAHAL,Bangur,50
+FGB,Gujarat,PANCHMAHAL,Shree,50
+FGB,Gujarat,PATAN,Shree,50
+FGB,Gujarat,SABARKANTHA,Bangur,50
+FGB,Gujarat,VADODARA,Bangur,50
+FGB,Madhya Pradesh,AGAR,Bangur,50
+FGB,Madhya Pradesh,AGAR,Shree,50
+FGB,Madhya Pradesh,ASHOK NAGAR,Bangur,50
+FGB,Madhya Pradesh,ASHOK NAGAR,Shree,50
+FGB,Madhya Pradesh,BARWANI,Shree,50
+FGB,Madhya Pradesh,BHIND,Bangur,50
+FGB,Madhya Pradesh,BHIND,Shree,50
+FGB,Madhya Pradesh,DHAR,Bangur,50
+FGB,Madhya Pradesh,DHAR,Shree,50
+FGB,Madhya Pradesh,GUNA,Bangur,50
+FGB,Madhya Pradesh,GUNA,Shree,50
+FGB,Madhya Pradesh,GWALIOR,Bangur,50
+FGB,Madhya Pradesh,GWALIOR,Shree,50
+FGB,Madhya Pradesh,INDORE,Bangur,63
+FGB,Madhya Pradesh,INDORE,Shree,50
+FGB,Madhya Pradesh,JHABUA,Shree,50
+FGB,Madhya Pradesh,MANDSOUR,Bangur,50
+FGB,Madhya Pradesh,MANDSOUR,Shree,50
+FGB,Madhya Pradesh,MORENA,Bangur,50
+FGB,Madhya Pradesh,MORENA,Shree,50
+FGB,Madhya Pradesh,NEEMUCH,Bangur,50
+FGB,Madhya Pradesh,NEEMUCH,Shree,50
+FGB,Madhya Pradesh,RAJGARH,Bangur,50
+FGB,Madhya Pradesh,RAJGARH,Shree,50
+FGB,Madhya Pradesh,RATLAM,Bangur,50
+FGB,Madhya Pradesh,RATLAM,Shree,50
+FGB,Madhya Pradesh,SHAJAPUR,Shree,50
+FGB,Madhya Pradesh,SHIVPURI,Shree,50
+FGB,Madhya Pradesh,UJJAIN,Bangur,50
+FGB,Madhya Pradesh,UJJAIN,Shree,50
+FGB,Rajasthan,AJMER,Bangur,508.65
+FGB,Rajasthan,AJMER,Rockstrong,50
+FGB,Rajasthan,AJMER,Shree,1038.242633
+FGB,Rajasthan,ALWAR,Shree,50
+FGB,Rajasthan,BANSWARA,Bangur,50
+FGB,Rajasthan,BANSWARA,Rockstrong,50
+FGB,Rajasthan,BANSWARA,Shree,62.46666667
+FGB,Rajasthan,BARAN,Bangur,50
+FGB,Rajasthan,BARAN,Rockstrong,75.23333333
+FGB,Rajasthan,BARAN,Shree,73.43333333
+FGB,Rajasthan,BARMER,Bangur,50
+FGB,Rajasthan,BARMER,Rockstrong,50
+FGB,Rajasthan,BARMER,Shree,136.9513333
+FGB,Rajasthan,BHARATPUR,Bangur,50
+FGB,Rajasthan,BHARATPUR,Shree,50
+FGB,Rajasthan,BHILWARA,Bangur,66.86666667
+FGB,Rajasthan,BHILWARA,Rockstrong,180.8
+FGB,Rajasthan,BHILWARA,Shree,273.4196667
+FGB,Rajasthan,BIKANER,Shree,50
+FGB,Rajasthan,BUNDI,Bangur,50
+FGB,Rajasthan,BUNDI,Rockstrong,50
+FGB,Rajasthan,BUNDI,Shree,82.2
+FGB,Rajasthan,CHITTORGARH,Bangur,50
+FGB,Rajasthan,CHITTORGARH,Rockstrong,50
+FGB,Rajasthan,CHITTORGARH,Shree,84.36566667
+FGB,Rajasthan,DAUSA,Bangur,50
+FGB,Rajasthan,DAUSA,Shree,50
+FGB,Rajasthan,DHOLPUR,Bangur,50
+FGB,Rajasthan,DHOLPUR,Rockstrong,50
+FGB,Rajasthan,DHOLPUR,Shree,50
+FGB,Rajasthan,DUNGARPUR,Bangur,50
+FGB,Rajasthan,DUNGARPUR,Rockstrong,50
+FGB,Rajasthan,DUNGARPUR,Shree,79.03333333
+FGB,Rajasthan,JAIPUR,Bangur,50
+FGB,Rajasthan,JAIPUR,Shree,50
+FGB,Rajasthan,JAISALMER,Bangur,50
+FGB,Rajasthan,JAISALMER,Rockstrong,50
+FGB,Rajasthan,JAISALMER,Shree,50
+FGB,Rajasthan,JALORE,Bangur,50
+FGB,Rajasthan,JALORE,Rockstrong,50
+FGB,Rajasthan,JALORE,Shree,131
+FGB,Rajasthan,JHALAWAR,Bangur,50.28333333
+FGB,Rajasthan,JHALAWAR,Rockstrong,50
+FGB,Rajasthan,JHALAWAR,Shree,73.05
+FGB,Rajasthan,JHUNJHUNU,Shree,50
+FGB,Rajasthan,JODHPUR,Bangur,103.0333333
+FGB,Rajasthan,JODHPUR,Rockstrong,50
+FGB,Rajasthan,JODHPUR,Shree,59.389
+FGB,Rajasthan,KAROLI,Bangur,50
+FGB,Rajasthan,KAROLI,Shree,50
+FGB,Rajasthan,KOTA,Bangur,50
+FGB,Rajasthan,KOTA,Rockstrong,55.7
+FGB,Rajasthan,KOTA,Shree,104.6666667
+FGB,Rajasthan,NAGAUR,Rockstrong,50
+FGB,Rajasthan,NAGAUR,Shree,50
+FGB,Rajasthan,PALI,Bangur,50
+FGB,Rajasthan,PALI,Rockstrong,50
+FGB,Rajasthan,PALI,Shree,50
+FGB,Rajasthan,PRATAPGARH,Bangur,50
+FGB,Rajasthan,PRATAPGARH,Rockstrong,50
+FGB,Rajasthan,PRATAPGARH,Shree,74.13333333
+FGB,Rajasthan,RAJSAMAND,Bangur,50
+FGB,Rajasthan,RAJSAMAND,Rockstrong,50
+FGB,Rajasthan,RAJSAMAND,Shree,52.1
+FGB,Rajasthan,SAWAIMADHOPUR,Bangur,50
+FGB,Rajasthan,SAWAIMADHOPUR,Shree,50
+FGB,Rajasthan,SIKAR,Bangur,50
+FGB,Rajasthan,SIKAR,Shree,50
+FGB,Rajasthan,SIROHI,Bangur,50
+FGB,Rajasthan,SIROHI,Shree,51.03333333
+FGB,Rajasthan,TONK,Bangur,50
+FGB,Rajasthan,TONK,Rockstrong,50
+FGB,Rajasthan,TONK,Shree,50
+FGB,Rajasthan,UDAIPUR,Bangur,88.46666667
+FGB,Rajasthan,UDAIPUR,Rockstrong,50
+FGB,Rajasthan,UDAIPUR,Shree,159.6666667
+FGB,Uttar Pradesh,AGRA,Bangur,106.9633333
+FGB,Uttar Pradesh,AGRA,Rockstrong,116.5466667
+FGB,Uttar Pradesh,AGRA,Shree,720.9366667
+FGB,Uttar Pradesh,ALIGARH,Rockstrong,50
+FGB,Uttar Pradesh,ALIGARH,Shree,61.17
+FGB,Uttar Pradesh,BAREILLY,Bangur,50
+FGB,Uttar Pradesh,BAREILLY,Rockstrong,50
+FGB,Uttar Pradesh,BAREILLY,Shree,144.9766667
+FGB,Uttar Pradesh,FAIZABAD,Shree,58.84666667
+FGB,Uttar Pradesh,FARUKKHABAD,Bangur,57.01
+FGB,Uttar Pradesh,FARUKKHABAD,Shree,153.19
+FGB,Uttar Pradesh,FEROZABAD,Bangur,55.51333333
+FGB,Uttar Pradesh,GHAZIABAD,Bangur,150.53
+FGB,Uttar Pradesh,GHAZIABAD,Rockstrong,195.7283333
+FGB,Uttar Pradesh,GHAZIABAD,Shree,624.2016667
+FGB,Uttar Pradesh,GONDA,Shree,50.52
+FGB,Uttar Pradesh,HARDOI,Bangur,80.44
+FGB,Uttar Pradesh,JHANSI,Shree,59.04
+FGB,Uttar Pradesh,KANPUR NAGAR,Bangur,121.28
+FGB,Uttar Pradesh,KANPUR NAGAR,Shree,188.9133333
+FGB,Uttar Pradesh,LUCKNOW,Bangur,71.99
+FGB,Uttar Pradesh,LUCKNOW,Shree,63.73666667
+FGB,Uttar Pradesh,MATHURA,Shree,50.62
+FGB,Uttar Pradesh,RAEBARELI,Shree,50
+FGB,Uttar Pradesh,SHAHJAHANPUR,Bangur,57.87666667
+FGB,Uttar Pradesh,SHAHJAHANPUR,Rockstrong,50
+FGB,Uttar Pradesh,SHAHJAHANPUR,Shree,77.31333333
+FGB,Uttar Pradesh,SITAPUR,Bangur,50
+FGB,Uttar Pradesh,SITAPUR,Shree,50
+FGB,Uttar Pradesh,SULTANPUR,Shree,50
+FGC,Chattisgarh,BALOD,Bangur,50
+FGC,Chattisgarh,BALOD,Shree,50
+FGC,Chattisgarh,BALODA BAZAR,Bangur,50
+FGC,Chattisgarh,BALODA BAZAR,Shree,80.13266667
+FGC,Chattisgarh,BEMETARA,Bangur,50
+FGC,Chattisgarh,BEMETARA,Shree,67.96666667
+FGC,Chattisgarh,BILASPUR,Bangur,113.6666667
+FGC,Chattisgarh,BILASPUR,Shree,163.1666667
+FGC,Chattisgarh,DHAMTARI,Bangur,72.22666667
+FGC,Chattisgarh,DHAMTARI,Shree,155.7333333
+FGC,Chattisgarh,DURG,Bangur,58.9
+FGC,Chattisgarh,DURG,Shree,94.03333333
+FGC,Chattisgarh,JANJGIR-CHAMPA,Bangur,100.6666667
+FGC,Chattisgarh,JANJGIR-CHAMPA,Shree,168.7666667
+FGC,Chattisgarh,JASHPUR,Bangur,50
+FGC,Chattisgarh,JASHPUR,Shree,50
+FGC,Chattisgarh,KANKER,Bangur,50
+FGC,Chattisgarh,KANKER,Shree,50
+FGC,Chattisgarh,KAWARDHA,Bangur,50
+FGC,Chattisgarh,KAWARDHA,Shree,83.55
+FGC,Chattisgarh,KORBA,Bangur,50
+FGC,Chattisgarh,KORBA,Shree,124.6333333
+FGC,Chattisgarh,KORIYA,Bangur,50
+FGC,Chattisgarh,KORIYA,Shree,76.48333333
+FGC,Chattisgarh,MAHASAMUND,Bangur,57.63333333
+FGC,Chattisgarh,MAHASAMUND,Shree,102.4
+FGC,Chattisgarh,MUNGELI,Shree,50
+FGC,Chattisgarh,RAIGARH,Bangur,50
+FGC,Chattisgarh,RAIGARH,Shree,50
+FGC,Chattisgarh,RAIPUR,Bangur,510.3666667
+FGC,Chattisgarh,RAIPUR,Shree,594.3083333
+FGC,Chattisgarh,RAJNANDGAON,Bangur,51.4
+FGC,Chattisgarh,RAJNANDGAON,Shree,50
+FGC,Chattisgarh,SURAJPUR,Bangur,50
+FGC,Chattisgarh,SURAJPUR,Shree,50
+FGC,Chattisgarh,SURGUJA,Bangur,50
+FGC,Chattisgarh,SURGUJA,Shree,79.35
+FGC,Madhya Pradesh,ANUPPUR,Bangur,50
+FGC,Madhya Pradesh,ANUPPUR,Shree,50
+FGC,Madhya Pradesh,BALAGHAT,Bangur,50
+FGC,Madhya Pradesh,BALAGHAT,Shree,109.6633333
+FGC,Madhya Pradesh,BETUL,Bangur,50
+FGC,Madhya Pradesh,CHHINDWARA,Bangur,50
+FGC,Madhya Pradesh,CHHINDWARA,Shree,50
+FGC,Madhya Pradesh,DINDORI,Bangur,50
+FGC,Madhya Pradesh,DINDORI,Shree,50
+FGC,Madhya Pradesh,HOSHANGABAD,Bangur,50
+FGC,Madhya Pradesh,JABALPUR,Bangur,51.46666667
+FGC,Madhya Pradesh,JABALPUR,Shree,50
+FGC,Madhya Pradesh,MANDLA,Bangur,50
+FGC,Madhya Pradesh,MANDLA,Shree,60.76666667
+FGC,Madhya Pradesh,NARSINGHPUR,Bangur,50
+FGC,Madhya Pradesh,RAISEN,Bangur,50
+FGC,Madhya Pradesh,SAGAR,Bangur,79.93333333
+FGC,Madhya Pradesh,SEONI,Bangur,50
+FGC,Madhya Pradesh,SEONI,Shree,50
+FGC,Madhya Pradesh,SHAHDOL,Bangur,136.0333333
+FGC,Madhya Pradesh,SHAHDOL,Shree,127.63
+FGC,Madhya Pradesh,UMARIA,Bangur,50
+FGC,Madhya Pradesh,UMARIA,Shree,50
+FGC,Maharashtra,AMRAVATI,Bangur,68.73333333
+FGC,Maharashtra,BHANDARA,Shree,50
+FGC,Maharashtra,GONDIA,Bangur,50
+FGC,Maharashtra,GONDIA,Shree,50
+FGC,Maharashtra,NAGPUR,Bangur,149.0666667
+FGC,Maharashtra,NAGPUR,Shree,129.8666667
+FGC,Maharashtra,WARDHA,Bangur,50
+FGC,Odisha,BALANGIR,Bangur,50
+FGC,Odisha,BALANGIR,Shree,94.43
+FGC,Odisha,BARGARH,Bangur,50
+FGC,Odisha,BARGARH,Shree,66.65
+FGC,Odisha,BOUDH,Bangur,50
+FGC,Odisha,BOUDH,Shree,50
+FGC,Odisha,DEBAGARH,Bangur,50
+FGC,Odisha,DEBAGARH,Shree,50
+FGC,Odisha,GAJAPATI,Bangur,50
+FGC,Odisha,JHARSUGUDA,Bangur,50
+FGC,Odisha,JHARSUGUDA,Shree,100.33
+FGC,Odisha,KALAHANDI,Bangur,79.93333333
+FGC,Odisha,KALAHANDI,Shree,50
+FGC,Odisha,KANDHAMAL,Shree,50
+FGC,Odisha,KORAPUT,Bangur,50
+FGC,Odisha,KORAPUT,Shree,50
+FGC,Odisha,MALKANGIRI,Bangur,50
+FGC,Odisha,MALKANGIRI,Shree,50
+FGC,Odisha,NABARANGAPUR,Bangur,50
+FGC,Odisha,NABARANGAPUR,Shree,50
+FGC,Odisha,NUAPADA,Bangur,50
+FGC,Odisha,NUAPADA,Shree,54.06666667
+FGC,Odisha,RAYAGADA,Bangur,50
+FGC,Odisha,RAYAGADA,Shree,50
+FGC,Odisha,SAMBALPUR,Bangur,50.96666667
+FGC,Odisha,SAMBALPUR,Shree,62.9
+FGC,Odisha,SONEPUR,Bangur,50
+FGC,Odisha,SONEPUR,Shree,50
+FGC,Odisha,SUNDARGARH,Bangur,50
+FGC,Odisha,SUNDARGARH,Shree,54.76666667
+FGF,Bihar,ARARIA,Bangur,57.76666667
+FGF,Bihar,ARARIA,Shree,50
+FGF,Bihar,ARWAL,Bangur,50
+FGF,Bihar,ARWAL,Shree,50
+FGF,Bihar,AURANGABAD,Bangur,50
+FGF,Bihar,AURANGABAD,Shree,89.53333333
+FGF,Bihar,BANKA,Bangur,50
+FGF,Bihar,BANKA,Shree,50
+FGF,Bihar,BEGUSARAI,Bangur,50
+FGF,Bihar,BEGUSARAI,Shree,50
+FGF,Bihar,BHAGALPUR,Bangur,50
+FGF,Bihar,BHAGALPUR,Shree,50
+FGF,Bihar,BHOJPUR,Bangur,50
+FGF,Bihar,BHOJPUR,Shree,50
+FGF,Bihar,BUXAR,Bangur,50
+FGF,Bihar,BUXAR,Shree,50
+FGF,Bihar,DARBHANGA,Bangur,50
+FGF,Bihar,DARBHANGA,Shree,65
+FGF,Bihar,EAST CHAMPARAN,Bangur,123.4666667
+FGF,Bihar,EAST CHAMPARAN,Shree,134
+FGF,Bihar,GAYA,Bangur,50
+FGF,Bihar,GAYA,Shree,65.93333333
+FGF,Bihar,GOPALGANJ,Bangur,50
+FGF,Bihar,GOPALGANJ,Shree,58.4
+FGF,Bihar,JAMUI,Bangur,50
+FGF,Bihar,JAMUI,Shree,50
+FGF,Bihar,JEHANABAD,Bangur,50
+FGF,Bihar,JEHANABAD,Shree,50
+FGF,Bihar,KAIMUR,Bangur,50
+FGF,Bihar,KAIMUR,Shree,50
+FGF,Bihar,KATIHAR,Bangur,50
+FGF,Bihar,KATIHAR,Shree,50
+FGF,Bihar,KHAGARIA,Bangur,50
+FGF,Bihar,KHAGARIA,Shree,50
+FGF,Bihar,KISHANGANJ,Bangur,50
+FGF,Bihar,KISHANGANJ,Shree,50
+FGF,Bihar,LAKHISARAI,Bangur,50
+FGF,Bihar,LAKHISARAI,Shree,50
+FGF,Bihar,MADHEPURA,Bangur,50
+FGF,Bihar,MADHEPURA,Shree,53.4
+FGF,Bihar,MADHUBANI,Bangur,93.53333333
+FGF,Bihar,MADHUBANI,Shree,50
+FGF,Bihar,MUNGER,Bangur,50
+FGF,Bihar,MUNGER,Shree,50
+FGF,Bihar,MUZAFFARPUR,Bangur,79
+FGF,Bihar,MUZAFFARPUR,Shree,50
+FGF,Bihar,NALANDA,Bangur,50
+FGF,Bihar,NALANDA,Shree,50
+FGF,Bihar,NAWADA,Bangur,50
+FGF,Bihar,NAWADA,Shree,50
+FGF,Bihar,PATNA,Bangur,160.5
+FGF,Bihar,PATNA,Shree,345.2333333
+FGF,Bihar,PURNEA,Bangur,50
+FGF,Bihar,PURNEA,Shree,50
+FGF,Bihar,ROHTAS,Bangur,50
+FGF,Bihar,ROHTAS,Shree,74.1
+FGF,Bihar,SAHARSA,Bangur,50
+FGF,Bihar,SAHARSA,Shree,50
+FGF,Bihar,SAMASTIPUR,Bangur,50
+FGF,Bihar,SAMASTIPUR,Shree,50
+FGF,Bihar,SARAN,Bangur,50
+FGF,Bihar,SARAN,Shree,50
+FGF,Bihar,SEIKHPURA,Bangur,50
+FGF,Bihar,SEIKHPURA,Shree,50
+FGF,Bihar,SHEOHAR,Shree,50
+FGF,Bihar,SITAMARHI,Bangur,54
+FGF,Bihar,SITAMARHI,Shree,50
+FGF,Bihar,SIWAN,Bangur,109.5166667
+FGF,Bihar,SIWAN,Shree,53
+FGF,Bihar,SUPAUL,Bangur,50
+FGF,Bihar,SUPAUL,Shree,50
+FGF,Bihar,VAISHALI,Bangur,73.86666667
+FGF,Bihar,VAISHALI,Shree,72.53333333
+FGF,Bihar,WEST CHAMPARAN,Bangur,134.7333333
+FGF,Bihar,WEST CHAMPARAN,Shree,114.9
+FGF,Jharkhand,GARHWA,Bangur,50
+FGF,Jharkhand,GARHWA,Shree,50
+FGF,Jharkhand,PALAMAU,Bangur,50
+FGF,Jharkhand,PALAMAU,Shree,50
+FGF,Uttar Pradesh,AZAMGARH,Bangur,58.2
+FGF,Uttar Pradesh,AZAMGARH,Shree,128
+FGF,Uttar Pradesh,BALLIA,Bangur,50
+FGF,Uttar Pradesh,BALLIA,Shree,50
+FGF,Uttar Pradesh,BASTI,Bangur,75.33333333
+FGF,Uttar Pradesh,CHANDAULI,Bangur,50
+FGF,Uttar Pradesh,CHANDAULI,Shree,50
+FGF,Uttar Pradesh,DEORIA,Bangur,50
+FGF,Uttar Pradesh,DEORIA,Shree,99.4
+FGF,Uttar Pradesh,GHAZIPUR,Bangur,50
+FGF,Uttar Pradesh,GHAZIPUR,Shree,71.63333333
+FGF,Uttar Pradesh,GORAKHPUR,Bangur,50
+FGF,Uttar Pradesh,GORAKHPUR,Shree,50
+FGF,Uttar Pradesh,JAUNPUR,Bangur,50
+FGF,Uttar Pradesh,JAUNPUR,Shree,50
+FGF,Uttar Pradesh,KUSHINAGAR,Bangur,50
+FGF,Uttar Pradesh,KUSHINAGAR,Shree,50
+FGF,Uttar Pradesh,MAHARAJGANJ,Bangur,50
+FGF,Uttar Pradesh,MAHARAJGANJ,Shree,50
+FGF,Uttar Pradesh,MAU,Bangur,50
+FGF,Uttar Pradesh,MAU,Shree,65.86666667
+FGF,Uttar Pradesh,SANT KABIR NAGAR,Shree,52.46666667
+FGF,Uttar Pradesh,SIDDHARTH NAGAR,Bangur,50
+FGF,Uttar Pradesh,VARANASI,Bangur,50
+FGF,Uttar Pradesh,VARANASI,Shree,50
+FGG,Bihar,ARARIA,Bangur,56.63333333
+FGG,Bihar,ARARIA,Shree,54.43333333
+FGG,Bihar,ARWAL,Bangur,50
+FGG,Bihar,ARWAL,Shree,50
+FGG,Bihar,AURANGABAD,Bangur,545.6081333
+FGG,Bihar,AURANGABAD,Shree,475.815
+FGG,Bihar,BANKA,Bangur,50
+FGG,Bihar,BANKA,Shree,50
+FGG,Bihar,BEGUSARAI,Bangur,50
+FGG,Bihar,BEGUSARAI,Shree,50
+FGG,Bihar,BHAGALPUR,Bangur,50
+FGG,Bihar,BHAGALPUR,Shree,50
+FGG,Bihar,BHOJPUR,Bangur,82.23333333
+FGG,Bihar,BHOJPUR,Shree,92.33333333
+FGG,Bihar,BUXAR,Bangur,59.5
+FGG,Bihar,BUXAR,Shree,77.35166667
+FGG,Bihar,DARBHANGA,Bangur,50
+FGG,Bihar,DARBHANGA,Shree,76.4
+FGG,Bihar,EAST CHAMPARAN,Bangur,133.1666667
+FGG,Bihar,EAST CHAMPARAN,Shree,185.5666667
+FGG,Bihar,GAYA,Bangur,96
+FGG,Bihar,GAYA,Shree,203.3
+FGG,Bihar,GOPALGANJ,Bangur,76.66666667
+FGG,Bihar,GOPALGANJ,Shree,71.83333333
+FGG,Bihar,JAMUI,Bangur,50
+FGG,Bihar,JAMUI,Shree,50
+FGG,Bihar,JEHANABAD,Bangur,50
+FGG,Bihar,JEHANABAD,Shree,50
+FGG,Bihar,KAIMUR,Bangur,100.2666667
+FGG,Bihar,KAIMUR,Shree,120.1333333
+FGG,Bihar,KATIHAR,Bangur,50
+FGG,Bihar,KATIHAR,Shree,50
+FGG,Bihar,KHAGARIA,Bangur,50
+FGG,Bihar,KHAGARIA,Shree,50
+FGG,Bihar,KISHANGANJ,Bangur,79.43333333
+FGG,Bihar,KISHANGANJ,Shree,57.3
+FGG,Bihar,LAKHISARAI,Bangur,50
+FGG,Bihar,LAKHISARAI,Shree,50
+FGG,Bihar,MADHEPURA,Bangur,50
+FGG,Bihar,MADHEPURA,Shree,96.13333333
+FGG,Bihar,MADHUBANI,Bangur,81.36666667
+FGG,Bihar,MADHUBANI,Shree,67.93333333
+FGG,Bihar,MUNGER,Bangur,50
+FGG,Bihar,MUNGER,Shree,50
+FGG,Bihar,MUZAFFARPUR,Bangur,66.73333333
+FGG,Bihar,MUZAFFARPUR,Shree,74.46666667
+FGG,Bihar,NALANDA,Bangur,50
+FGG,Bihar,NALANDA,Shree,60.21666667
+FGG,Bihar,NAWADA,Bangur,50
+FGG,Bihar,NAWADA,Shree,50
+FGG,Bihar,PATNA,Bangur,168.9666667
+FGG,Bihar,PATNA,Shree,442.045
+FGG,Bihar,PURNEA,Bangur,50
+FGG,Bihar,PURNEA,Shree,50
+FGG,Bihar,ROHTAS,Bangur,131.7666667
+FGG,Bihar,ROHTAS,Shree,182.8666667
+FGG,Bihar,SAHARSA,Bangur,50
+FGG,Bihar,SAHARSA,Shree,50
+FGG,Bihar,SAMASTIPUR,Bangur,76.13333333
+FGG,Bihar,SAMASTIPUR,Shree,68.23333333
+FGG,Bihar,SARAN,Bangur,50
+FGG,Bihar,SARAN,Shree,70.05
+FGG,Bihar,SEIKHPURA,Bangur,50
+FGG,Bihar,SEIKHPURA,Shree,50
+FGG,Bihar,SHEOHAR,Shree,50
+FGG,Bihar,SITAMARHI,Bangur,50
+FGG,Bihar,SITAMARHI,Shree,50
+FGG,Bihar,SIWAN,Bangur,120.0833333
+FGG,Bihar,SIWAN,Shree,79.51666667
+FGG,Bihar,SUPAUL,Bangur,50
+FGG,Bihar,SUPAUL,Shree,50
+FGG,Bihar,VAISHALI,Bangur,115.5
+FGG,Bihar,VAISHALI,Shree,123.7666667
+FGG,Bihar,WEST CHAMPARAN,Bangur,92.33333333
+FGG,Bihar,WEST CHAMPARAN,Shree,141.2666667
+FGG,Uttar Pradesh,AZAMGARH,Bangur,50
+FGG,Uttar Pradesh,BALLIA,Bangur,50
+FGG,Uttar Pradesh,BASTI,Bangur,50
+FGG,Uttar Pradesh,CHANDAULI,Bangur,50
+FGG,Uttar Pradesh,GHAZIPUR,Bangur,50
+FGG,Uttar Pradesh,GORAKHPUR,Bangur,50
+FGG,Uttar Pradesh,JAUNPUR,Bangur,50
+FGG,Uttar Pradesh,KUSHINAGAR,Bangur,50
+FGG,Uttar Pradesh,MAHARAJGANJ,Bangur,50
+FGG,Uttar Pradesh,SIDDHARTH NAGAR,Bangur,50
+FGG,Uttar Pradesh,VARANASI,Bangur,50
+FGH,AMROHA,AMROHA,Bangur,50
+FGH,Delhi,DELHI,Bangur,112.45
+FGH,Delhi,DELHI,Rockstrong,50
+FGH,Delhi,DELHI,Shree,345.4916667
+FGH,J.P.NAGAR,NAUGAWANBA SADAT,Bangur,50
+FGH,LONI,",",Shree,50
+FGH,SAMBHAL,BABRALA,Shree,50
+FGH,SAMBHAL,DHANARI,Shree,50
+FGH,Uttar Pradesh,ALIGARH,Bangur,81.66666667
+FGH,Uttar Pradesh,ALIGARH,Rockstrong,50
+FGH,Uttar Pradesh,ALIGARH,Shree,71.51666667
+FGH,Uttar Pradesh,AMETHI,Shree,50
+FGH,Uttar Pradesh,AMROHA,Bangur,50
+FGH,Uttar Pradesh,AMROHA,Rockstrong,50
+FGH,Uttar Pradesh,AMROHA,Shree,50
+FGH,Uttar Pradesh,AURAIYA,Bangur,50
+FGH,Uttar Pradesh,AURAIYA,Shree,50
+FGH,Uttar Pradesh,BADAUN,Bangur,50
+FGH,Uttar Pradesh,BADAUN,Rockstrong,50
+FGH,Uttar Pradesh,BADAUN,Shree,50
+FGH,Uttar Pradesh,BAHRAICH,Shree,50
+FGH,Uttar Pradesh,BARABANKI,Shree,50
+FGH,Uttar Pradesh,BAREILLY,Bangur,110
+FGH,Uttar Pradesh,BAREILLY,Rockstrong,152.5333333
+FGH,Uttar Pradesh,BAREILLY,Shree,267.7333333
+FGH,Uttar Pradesh,BULLAND SHAHAR,Bangur,50
+FGH,Uttar Pradesh,BULLAND SHAHAR,Rockstrong,50
+FGH,Uttar Pradesh,BULLAND SHAHAR,Shree,206.6678
+FGH,Uttar Pradesh,ETAH,Bangur,50
+FGH,Uttar Pradesh,ETAH,Rockstrong,50
+FGH,Uttar Pradesh,ETAH,Shree,50
+FGH,Uttar Pradesh,FAIZABAD,Shree,50
+FGH,Uttar Pradesh,FARUKKHABAD,Bangur,50
+FGH,Uttar Pradesh,FARUKKHABAD,Shree,50
+FGH,Uttar Pradesh,FATEHPUR,Shree,50
+FGH,Uttar Pradesh,FEROZABAD,Shree,50
+FGH,Uttar Pradesh,GHAZIABAD,Bangur,287.2166667
+FGH,Uttar Pradesh,GHAZIABAD,Rockstrong,119.6333333
+FGH,Uttar Pradesh,GHAZIABAD,Shree,464.5233333
+FGH,Uttar Pradesh,GONDA,Shree,50
+FGH,Uttar Pradesh,HAPUR,Bangur,50
+FGH,Uttar Pradesh,HAPUR,Rockstrong,50
+FGH,Uttar Pradesh,HAPUR,Shree,50
+FGH,Uttar Pradesh,HARDOI,Bangur,50
+FGH,Uttar Pradesh,HARDOI,Shree,50
+FGH,Uttar Pradesh,HATHRAS,Bangur,50
+FGH,Uttar Pradesh,HATHRAS,Rockstrong,50
+FGH,Uttar Pradesh,HATHRAS,Shree,50
+FGH,Uttar Pradesh,J.P.NAGAR,Bangur,50
+FGH,Uttar Pradesh,J.P.NAGAR,Rockstrong,50
+FGH,Uttar Pradesh,J.P.NAGAR,Shree,50
+FGH,Uttar Pradesh,JALAUN,Bangur,50
+FGH,Uttar Pradesh,JALAUN,Shree,50
+FGH,Uttar Pradesh,KANNAUJ,Shree,50
+FGH,Uttar Pradesh,KANPUR DEHAT,Shree,50
+FGH,Uttar Pradesh,KANPUR NAGAR,Bangur,50
+FGH,Uttar Pradesh,KANPUR NAGAR,Shree,50
+FGH,Uttar Pradesh,KANSHIRAM NAGAR,Bangur,50
+FGH,Uttar Pradesh,KANSHIRAM NAGAR,Rockstrong,50
+FGH,Uttar Pradesh,KANSHIRAM NAGAR,Shree,50
+FGH,Uttar Pradesh,LAKHIMPUR,Bangur,83.33333333
+FGH,Uttar Pradesh,LAKHIMPUR,Shree,50
+FGH,Uttar Pradesh,LUCKNOW,Shree,50
+FGH,Uttar Pradesh,MAINPURI,Bangur,50
+FGH,Uttar Pradesh,MAINPURI,Shree,50
+FGH,Uttar Pradesh,MEERUT,Bangur,59.2
+FGH,Uttar Pradesh,MEERUT,Rockstrong,50
+FGH,Uttar Pradesh,MEERUT,Shree,50
+FGH,Uttar Pradesh,MORADABAD,Bangur,92.18333333
+FGH,Uttar Pradesh,MORADABAD,Rockstrong,79.26666667
+FGH,Uttar Pradesh,MORADABAD,Shree,65.3
+FGH,Uttar Pradesh,NOIDA,Bangur,158.6333333
+FGH,Uttar Pradesh,NOIDA,Rockstrong,83.35
+FGH,Uttar Pradesh,NOIDA,Shree,621.5496667
+FGH,Uttar Pradesh,PILIBHIT,Bangur,50
+FGH,Uttar Pradesh,PILIBHIT,Rockstrong,50
+FGH,Uttar Pradesh,PILIBHIT,Shree,50
+FGH,Uttar Pradesh,RAEBARELI,Shree,50
+FGH,Uttar Pradesh,RAMPUR,Bangur,56.83333333
+FGH,Uttar Pradesh,RAMPUR,Rockstrong,50
+FGH,Uttar Pradesh,RAMPUR,Shree,188.3833333
+FGH,Uttar Pradesh,SAMBHAL,Bangur,50
+FGH,Uttar Pradesh,SAMBHAL,Rockstrong,50
+FGH,Uttar Pradesh,SAMBHAL,Shree,50
+FGH,Uttar Pradesh,SHAHJAHANPUR,Bangur,50
+FGH,Uttar Pradesh,SHAHJAHANPUR,Rockstrong,50
+FGH,Uttar Pradesh,SHAHJAHANPUR,Shree,50
+FGH,Uttar Pradesh,SITAPUR,Bangur,50
+FGH,Uttar Pradesh,UNNAO,Shree,50
+FGH,Uttranchal,CHAMPAWAT,Bangur,50.9
+FGH,Uttranchal,CHAMPAWAT,Shree,73.9
+FGH,Uttranchal,NENITAL (UTT),Bangur,165.5
+FGH,Uttranchal,NENITAL (UTT),Shree,266.1166667
+FGH,Uttranchal,UDHAM SINGH NAGAR,Bangur,61.5
+FGH,Uttranchal,UDHAM SINGH NAGAR,Rockstrong,50
+FGH,Uttranchal,UDHAM SINGH NAGAR,Shree,95.91666667
+FGI,Haryana,FATEHABAD,Bangur,50
+FGI,Haryana,FATEHABAD,Rockstrong,50
+FGI,Haryana,FATEHABAD,Shree,50
+FGI,Haryana,HISSAR,Bangur,50
+FGI,Haryana,HISSAR,Rockstrong,50
+FGI,Haryana,HISSAR,Shree,50
+FGI,Haryana,SIRSA,Bangur,50
+FGI,Haryana,SIRSA,Rockstrong,50
+FGI,Haryana,SIRSA,Shree,50
+FGI,Himachal Pradesh,KANGRA,Rockstrong,50
+FGI,Himachal Pradesh,KANGRA,Shree,50
+FGI,Himachal Pradesh,SOLAN,Shree,50
+FGI,Himachal Pradesh,UNA,Bangur,50
+FGI,Himachal Pradesh,UNA,Shree,50
+FGI,Jammu & Kashmir,GANDERBAL,Shree,50
+FGI,Punjab,AMRITSAR,Bangur,50
+FGI,Punjab,AMRITSAR,Rockstrong,62.243
+FGI,Punjab,AMRITSAR,Shree,279.156
+FGI,Punjab,BARNALA,Rockstrong,50
+FGI,Punjab,BARNALA,Shree,50
+FGI,Punjab,BHATINDA,Bangur,50
+FGI,Punjab,BHATINDA,Rockstrong,50
+FGI,Punjab,BHATINDA,Shree,72.749
+FGI,Punjab,FARIDKOT,Bangur,50
+FGI,Punjab,FARIDKOT,Rockstrong,50
+FGI,Punjab,FARIDKOT,Shree,59.06666667
+FGI,Punjab,FATEHGARH SAHIB,Shree,50
+FGI,Punjab,FAZILKA,Bangur,50
+FGI,Punjab,FAZILKA,Rockstrong,58.63333333
+FGI,Punjab,FAZILKA,Shree,77.807
+FGI,Punjab,FEROZEPUR,Bangur,50
+FGI,Punjab,FEROZEPUR,Rockstrong,50
+FGI,Punjab,FEROZEPUR,Shree,66.53166667
+FGI,Punjab,GURDASPUR,Bangur,50
+FGI,Punjab,GURDASPUR,Rockstrong,50
+FGI,Punjab,GURDASPUR,Shree,286.9666667
+FGI,Punjab,HOSHIARPUR,Bangur,50
+FGI,Punjab,HOSHIARPUR,Rockstrong,50
+FGI,Punjab,HOSHIARPUR,Shree,84.13333333
+FGI,Punjab,JALLANDHAR,Bangur,50
+FGI,Punjab,JALLANDHAR,Rockstrong,87.4
+FGI,Punjab,JALLANDHAR,Shree,302.657
+FGI,Punjab,KAPURTHALA,Bangur,50
+FGI,Punjab,KAPURTHALA,Rockstrong,50
+FGI,Punjab,KAPURTHALA,Shree,50
+FGI,Punjab,LUDHIANA,Bangur,50
+FGI,Punjab,LUDHIANA,Rockstrong,50
+FGI,Punjab,LUDHIANA,Shree,148.5966667
+FGI,Punjab,MALERKOTLA,Rockstrong,50
+FGI,Punjab,MALERKOTLA,Shree,50
+FGI,Punjab,MANSA,Bangur,50
+FGI,Punjab,MANSA,Rockstrong,50
+FGI,Punjab,MANSA,Shree,50
+FGI,Punjab,MOGA,Bangur,50
+FGI,Punjab,MOGA,Rockstrong,73.96666667
+FGI,Punjab,MOGA,Shree,50
+FGI,Punjab,MUKTSAR,Bangur,50
+FGI,Punjab,MUKTSAR,Rockstrong,59.5
+FGI,Punjab,MUKTSAR,Shree,144.5873333
+FGI,Punjab,NAWANSHAHAR,Shree,50
+FGI,Punjab,PATHANKOT,Bangur,50
+FGI,Punjab,PATHANKOT,Rockstrong,50
+FGI,Punjab,PATHANKOT,Shree,225.6016667
+FGI,Punjab,PATIALA,Rockstrong,50
+FGI,Punjab,PATIALA,Shree,50
+FGI,Punjab,ROPAR,Shree,50
+FGI,Punjab,SANGRUR,Bangur,50
+FGI,Punjab,SANGRUR,Rockstrong,50
+FGI,Punjab,SANGRUR,Shree,50
+FGI,Punjab,TARANTAARAN,Bangur,50
+FGI,Punjab,TARANTAARAN,Rockstrong,50
+FGI,Punjab,TARANTAARAN,Shree,50
+FGI,Rajasthan,BIKANER,Bangur,50
+FGI,Rajasthan,BIKANER,Rockstrong,50
+FGI,Rajasthan,BIKANER,Shree,55.06666667
+FGI,Rajasthan,CHURU,Bangur,50
+FGI,Rajasthan,CHURU,Rockstrong,50
+FGI,Rajasthan,CHURU,Shree,54.73333333
+FGI,Rajasthan,HANUMANGARH,Bangur,95.86666667
+FGI,Rajasthan,HANUMANGARH,Rockstrong,73.5
+FGI,Rajasthan,HANUMANGARH,Shree,259.9706667
+FGI,Rajasthan,JHUNJHUNU,Shree,50
+FGI,Rajasthan,SRIGANGANAGAR,Bangur,153
+FGI,Rajasthan,SRIGANGANAGAR,Rockstrong,118.3666667
+FGI,Rajasthan,SRIGANGANAGAR,Shree,162.5411333
+FGJ,Haryana,BHIWANI,Rockstrong,50
+FGJ,Haryana,BHIWANI,Shree,50
+FGJ,Haryana,CHARKHI DADRI,Rockstrong,50
+FGJ,Haryana,CHARKHI DADRI,Shree,50
+FGJ,Haryana,MAHENDRAGARH,Rockstrong,50
+FGJ,Haryana,MAHENDRAGARH,Shree,50
+FGJ,Haryana,REWARI,Bangur,50
+FGJ,Haryana,REWARI,Rockstrong,50
+FGJ,Haryana,REWARI,Shree,50
+FGJ,Rajasthan,AJMER,Bangur,50
+FGJ,Rajasthan,AJMER,Rockstrong,50
+FGJ,Rajasthan,AJMER,Shree,50
+FGJ,Rajasthan,ALWAR,Bangur,115.3
+FGJ,Rajasthan,ALWAR,Rockstrong,71.65
+FGJ,Rajasthan,ALWAR,Shree,291.5833333
+FGJ,Rajasthan,BARAN,Rockstrong,50
+FGJ,Rajasthan,BHARATPUR,Bangur,50
+FGJ,Rajasthan,BHARATPUR,Rockstrong,50
+FGJ,Rajasthan,BHARATPUR,Shree,143.8
+FGJ,Rajasthan,BHILWARA,Bangur,50
+FGJ,Rajasthan,BHILWARA,Rockstrong,50
+FGJ,Rajasthan,BHILWARA,Shree,50
+FGJ,Rajasthan,BUNDI,Shree,50
+FGJ,Rajasthan,CHITTORGARH,Bangur,50
+FGJ,Rajasthan,CHITTORGARH,Rockstrong,50
+FGJ,Rajasthan,CHITTORGARH,Shree,50
+FGJ,Rajasthan,DAUSA,Bangur,50
+FGJ,Rajasthan,DAUSA,Rockstrong,50
+FGJ,Rajasthan,DAUSA,Shree,99.6
+FGJ,Rajasthan,DHOLPUR,Bangur,53.03333333
+FGJ,Rajasthan,DHOLPUR,Rockstrong,50
+FGJ,Rajasthan,DHOLPUR,Shree,86.4
+FGJ,Rajasthan,JAIPUR,Bangur,360.6743333
+FGJ,Rajasthan,JAIPUR,Rockstrong,65.43333333
+FGJ,Rajasthan,JAIPUR,Shree,857.9758
+FGJ,Rajasthan,JHALAWAR,Rockstrong,50
+FGJ,Rajasthan,JHALAWAR,Shree,50
+FGJ,Rajasthan,JHUNJHUNU,Bangur,50
+FGJ,Rajasthan,JHUNJHUNU,Rockstrong,72.4
+FGJ,Rajasthan,JHUNJHUNU,Shree,261.2166667
+FGJ,Rajasthan,KAROLI,Bangur,60.83333333
+FGJ,Rajasthan,KAROLI,Shree,69.5
+FGJ,Rajasthan,KOTA,Bangur,50
+FGJ,Rajasthan,KOTA,Rockstrong,50
+FGJ,Rajasthan,KOTA,Shree,50
+FGJ,Rajasthan,NAGAUR,Bangur,50
+FGJ,Rajasthan,NAGAUR,Rockstrong,50
+FGJ,Rajasthan,NAGAUR,Shree,50
+FGJ,Rajasthan,PRATAPGARH,Bangur,50
+FGJ,Rajasthan,PRATAPGARH,Rockstrong,50
+FGJ,Rajasthan,PRATAPGARH,Shree,50
+FGJ,Rajasthan,SAWAIMADHOPUR,Bangur,50
+FGJ,Rajasthan,SAWAIMADHOPUR,Rockstrong,50
+FGJ,Rajasthan,SAWAIMADHOPUR,Shree,136.0233333
+FGJ,Rajasthan,SIKAR,Bangur,50
+FGJ,Rajasthan,SIKAR,Rockstrong,50
+FGJ,Rajasthan,SIKAR,Shree,221.1166667
+FGJ,Rajasthan,TONK,Bangur,50
+FGJ,Rajasthan,TONK,Rockstrong,61.36666667
+FGJ,Rajasthan,TONK,Shree,154.2666667
+FGK,Delhi,DELHI,Bangur,252.65
+FGK,Delhi,DELHI,Rockstrong,214.375
+FGK,Delhi,DELHI,Shree,2005.941667
+FGK,Haryana,BHIWANI,Bangur,50
+FGK,Haryana,BHIWANI,Rockstrong,50
+FGK,Haryana,BHIWANI,Shree,50
+FGK,Haryana,CHARKHI DADRI,Bangur,50
+FGK,Haryana,CHARKHI DADRI,Shree,50
+FGK,Haryana,FARIDABAD,Bangur,156.4166667
+FGK,Haryana,FARIDABAD,Rockstrong,101.7
+FGK,Haryana,FARIDABAD,Shree,211.8333333
+FGK,Haryana,GURGAON,Bangur,154.8833333
+FGK,Haryana,GURGAON,Rockstrong,50
+FGK,Haryana,GURGAON,Shree,369.1833333
+FGK,Haryana,JHAJJAR,Bangur,50
+FGK,Haryana,JHAJJAR,Rockstrong,50
+FGK,Haryana,JHAJJAR,Shree,50
+FGK,Haryana,MAHENDRAGARH,Bangur,50
+FGK,Haryana,MAHENDRAGARH,Rockstrong,50
+FGK,Haryana,MAHENDRAGARH,Shree,50
+FGK,Haryana,MEWAT,Bangur,50
+FGK,Haryana,MEWAT,Rockstrong,50
+FGK,Haryana,MEWAT,Shree,50
+FGK,Haryana,PALWAL,Bangur,50
+FGK,Haryana,PALWAL,Rockstrong,50
+FGK,Haryana,PALWAL,Shree,110.9333333
+FGK,Haryana,REWARI,Bangur,50
+FGK,Haryana,REWARI,Rockstrong,50
+FGK,Haryana,REWARI,Shree,50
+FGK,Haryana,ROHTAK,Bangur,50
+FGK,Haryana,ROHTAK,Rockstrong,50
+FGK,Haryana,ROHTAK,Shree,50
+FGK,Rajasthan,ALWAR,Bangur,629.8273333
+FGK,Rajasthan,ALWAR,Rockstrong,121.9797667
+FGK,Rajasthan,ALWAR,Shree,1641.926
+FGK,Rajasthan,BHARATPUR,Shree,50
+FGK,Rajasthan,DHOLPUR,Rockstrong,50
+FGK,Rajasthan,DHOLPUR,Shree,50
+FGK,Rajasthan,JAIPUR,Bangur,50
+FGK,Rajasthan,JAIPUR,Shree,50
+FGK,Rajasthan,JHUNJHUNU,Shree,50
+FGK,Uttar Pradesh,BULLAND SHAHAR,,91.09133333
+FGK,Uttar Pradesh,ETAH,Bangur,50
+FGK,Uttar Pradesh,ETAH,Shree,50
+FGK,Uttar Pradesh,HATHRAS,Shree,50
+FGK,Uttar Pradesh,KANSHIRAM NAGAR,Bangur,50
+FGK,Uttar Pradesh,KANSHIRAM NAGAR,Shree,50
+FGK,Uttar Pradesh,MAINPURI,Bangur,50
+FGK,Uttar Pradesh,MATHURA,Bangur,50
+FGK,Uttar Pradesh,MATHURA,Shree,50
+FGN,Bihar,EAST CHAMPARAN,Bangur,50
+FGN,Bihar,SIWAN,Bangur,50
+FGN,Bihar,WEST CHAMPARAN,Shree,50
+FGN,Delhi,DELHI,Bangur,50
+FGN,Delhi,DELHI,Rockstrong,50
+FGN,Delhi,DELHI,Shree,78.955
+FGN,Gujarat,AHMEDABAD,Shree,50
+FGN,Gujarat,KUTCH,Shree,50
+FGN,Gujarat,MEHSANA,Bangur,50
+FGN,Gujarat,MEHSANA,Shree,50
+FGN,Gujarat,SABARKANTHA,Bangur,50
+FGN,Gujarat,SABARKANTHA,Shree,50
+FGN,Gujarat,VADODARA,Shree,50
+FGN,Haryana,BHIWANI,Rockstrong,50
+FGN,Haryana,BHIWANI,Shree,50
+FGN,Haryana,CHARKHI DADRI,Shree,50
+FGN,Haryana,FARIDABAD,Shree,50
+FGN,Haryana,FATEHABAD,Rockstrong,50
+FGN,Haryana,FATEHABAD,Shree,50
+FGN,Haryana,GURGAON,Rockstrong,50
+FGN,Haryana,HISSAR,Rockstrong,50
+FGN,Haryana,HISSAR,Shree,50
+FGN,Haryana,JHAJJAR,Rockstrong,50
+FGN,Haryana,JHAJJAR,Shree,50
+FGN,Haryana,JIND,Rockstrong,50
+FGN,Haryana,JIND,Shree,50
+FGN,Haryana,KARNAL,Rockstrong,50
+FGN,Haryana,KARNAL,Shree,50
+FGN,Haryana,MAHENDRAGARH,Rockstrong,50
+FGN,Haryana,MAHENDRAGARH,Shree,50
+FGN,Haryana,MEWAT,Rockstrong,50
+FGN,Haryana,MEWAT,Shree,50
+FGN,Haryana,PALWAL,Shree,50
+FGN,Haryana,PANIPAT,Rockstrong,50
+FGN,Haryana,PANIPAT,Shree,50
+FGN,Haryana,REWARI,Bangur,50
+FGN,Haryana,REWARI,Rockstrong,50
+FGN,Haryana,REWARI,Shree,50
+FGN,Haryana,ROHTAK,Rockstrong,50
+FGN,Haryana,ROHTAK,Shree,50
+FGN,Haryana,SIRSA,Bangur,50
+FGN,Haryana,SONEPAT,Rockstrong,50
+FGN,Haryana,SONEPAT,Shree,50
+FGN,Himachal Pradesh,SIRMAUR,Shree,50
+FGN,Madhya Pradesh,GUNA,Bangur,50
+FGN,Madhya Pradesh,GUNA,Shree,50
+FGN,Madhya Pradesh,GWALIOR,Shree,50
+FGN,Madhya Pradesh,INDORE,Bangur,50
+FGN,Madhya Pradesh,INDORE,Shree,50
+FGN,Madhya Pradesh,RATLAM,Bangur,50
+FGN,Madhya Pradesh,RATLAM,Shree,50
+FGN,Punjab,BHATINDA,Bangur,50
+FGN,Punjab,BHATINDA,Rockstrong,50
+FGN,Punjab,JALLANDHAR,Shree,50
+FGN,Punjab,LUDHIANA,Rockstrong,50
+FGN,Punjab,LUDHIANA,Shree,50
+FGN,Punjab,MANSA,Bangur,50
+FGN,Punjab,MANSA,Rockstrong,50
+FGN,Punjab,MANSA,Shree,50
+FGN,Punjab,MOHALI,Rockstrong,50
+FGN,Punjab,MOHALI,Shree,50
+FGN,Punjab,ROPAR,Shree,50
+FGN,Punjab,SANGRUR,Rockstrong,50
+FGN,Punjab,SANGRUR,Shree,50
+FGN,Rajasthan,AJMER,Bangur,152.9
+FGN,Rajasthan,AJMER,Rockstrong,94.03333333
+FGN,Rajasthan,AJMER,Shree,508.6666667
+FGN,Rajasthan,ALWAR,Bangur,68.4
+FGN,Rajasthan,ALWAR,Rockstrong,50
+FGN,Rajasthan,ALWAR,Shree,95.20766667
+FGN,Rajasthan,BANSWARA,Bangur,50
+FGN,Rajasthan,BANSWARA,Rockstrong,50
+FGN,Rajasthan,BANSWARA,Shree,50
+FGN,Rajasthan,BARAN,Bangur,50
+FGN,Rajasthan,BARAN,Rockstrong,50
+FGN,Rajasthan,BARAN,Shree,50
+FGN,Rajasthan,BARMER,Bangur,50
+FGN,Rajasthan,BARMER,Rockstrong,50
+FGN,Rajasthan,BARMER,Shree,330.7986667
+FGN,Rajasthan,BHARATPUR,Bangur,101.5
+FGN,Rajasthan,BHARATPUR,Rockstrong,117.9
+FGN,Rajasthan,BHARATPUR,Shree,84.33333333
+FGN,Rajasthan,BHILWARA,Rockstrong,50
+FGN,Rajasthan,BHILWARA,Shree,140.4823333
+FGN,Rajasthan,BIKANER,Bangur,92.3
+FGN,Rajasthan,BIKANER,Rockstrong,171.3
+FGN,Rajasthan,BIKANER,Shree,501.6
+FGN,Rajasthan,BUNDI,Rockstrong,50
+FGN,Rajasthan,BUNDI,Shree,50
+FGN,Rajasthan,CHITTORGARH,Bangur,50
+FGN,Rajasthan,CHITTORGARH,Rockstrong,50
+FGN,Rajasthan,CHITTORGARH,Shree,50
+FGN,Rajasthan,CHURU,Bangur,58.23333333
+FGN,Rajasthan,CHURU,Rockstrong,123.1666667
+FGN,Rajasthan,CHURU,Shree,242.6
+FGN,Rajasthan,DAUSA,Bangur,50
+FGN,Rajasthan,DAUSA,Rockstrong,50
+FGN,Rajasthan,DAUSA,Shree,50
+FGN,Rajasthan,DHOLPUR,Bangur,50
+FGN,Rajasthan,DHOLPUR,Rockstrong,50
+FGN,Rajasthan,DHOLPUR,Shree,62.4
+FGN,Rajasthan,DUNGARPUR,Shree,50
+FGN,Rajasthan,HANUMANGARH,Rockstrong,50
+FGN,Rajasthan,HANUMANGARH,Shree,50
+FGN,Rajasthan,JAIPUR,Bangur,50
+FGN,Rajasthan,JAIPUR,Rockstrong,50
+FGN,Rajasthan,JAIPUR,Shree,74.093
+FGN,Rajasthan,JAISALMER,Bangur,67.66666667
+FGN,Rajasthan,JAISALMER,Rockstrong,50
+FGN,Rajasthan,JAISALMER,Shree,242.5626667
+FGN,Rajasthan,JALORE,Bangur,50
+FGN,Rajasthan,JALORE,Rockstrong,50
+FGN,Rajasthan,JALORE,Shree,175.7436667
+FGN,Rajasthan,JHALAWAR,Rockstrong,50
+FGN,Rajasthan,JHALAWAR,Shree,50
+FGN,Rajasthan,JHUNJHUNU,Bangur,50
+FGN,Rajasthan,JHUNJHUNU,Rockstrong,50
+FGN,Rajasthan,JHUNJHUNU,Shree,236.0473333
+FGN,Rajasthan,JODHPUR,Bangur,216.6333333
+FGN,Rajasthan,JODHPUR,Rockstrong,90.76666667
+FGN,Rajasthan,JODHPUR,Shree,288.048
+FGN,Rajasthan,KAROLI,Bangur,50
+FGN,Rajasthan,KAROLI,Rockstrong,50
+FGN,Rajasthan,KAROLI,Shree,51.86666667
+FGN,Rajasthan,KOTA,Rockstrong,50
+FGN,Rajasthan,KOTA,Shree,50
+FGN,Rajasthan,NAGAUR,Bangur,50
+FGN,Rajasthan,NAGAUR,Rockstrong,50
+FGN,Rajasthan,NAGAUR,Shree,143.469
+FGN,Rajasthan,PALI,Bangur,325.5
+FGN,Rajasthan,PALI,Rockstrong,99.23333333
+FGN,Rajasthan,PALI,Shree,194.8918333
+FGN,Rajasthan,PRATAPGARH,Bangur,50
+FGN,Rajasthan,PRATAPGARH,Shree,50
+FGN,Rajasthan,RAJSAMAND,Bangur,50
+FGN,Rajasthan,RAJSAMAND,Rockstrong,50
+FGN,Rajasthan,RAJSAMAND,Shree,50
+FGN,Rajasthan,SAWAIMADHOPUR,Bangur,50
+FGN,Rajasthan,SAWAIMADHOPUR,Rockstrong,50
+FGN,Rajasthan,SAWAIMADHOPUR,Shree,74.46666667
+FGN,Rajasthan,SIKAR,Bangur,50
+FGN,Rajasthan,SIKAR,Rockstrong,50
+FGN,Rajasthan,SIKAR,Shree,99.165
+FGN,Rajasthan,SIROHI,Bangur,50
+FGN,Rajasthan,SIROHI,Rockstrong,50
+FGN,Rajasthan,SIROHI,Shree,50
+FGN,Rajasthan,SRIGANGANAGAR,Rockstrong,50
+FGN,Rajasthan,SRIGANGANAGAR,Shree,50
+FGN,Rajasthan,TONK,Bangur,50
+FGN,Rajasthan,TONK,Rockstrong,50
+FGN,Rajasthan,TONK,Shree,50
+FGN,Rajasthan,UDAIPUR,Bangur,50
+FGN,Rajasthan,UDAIPUR,Rockstrong,50
+FGN,Rajasthan,UDAIPUR,Shree,50
+FGN,Uttar Pradesh,AGRA,Bangur,50
+FGN,Uttar Pradesh,AGRA,Rockstrong,50
+FGN,Uttar Pradesh,AGRA,Shree,99.88666667
+FGN,Uttar Pradesh,ALIGARH,Bangur,50
+FGN,Uttar Pradesh,ALIGARH,Rockstrong,50
+FGN,Uttar Pradesh,ALIGARH,Shree,50
+FGN,Uttar Pradesh,AMETHI,Shree,50
+FGN,Uttar Pradesh,BAHRAICH,Shree,50
+FGN,Uttar Pradesh,BAREILLY,Bangur,50
+FGN,Uttar Pradesh,BAREILLY,Rockstrong,50
+FGN,Uttar Pradesh,BAREILLY,Shree,68.06166667
+FGN,Uttar Pradesh,BASTI,Bangur,50
+FGN,Uttar Pradesh,BASTI,Shree,50
+FGN,Uttar Pradesh,BIJNOR,Rockstrong,50
+FGN,Uttar Pradesh,BIJNOR,Shree,50
+FGN,Uttar Pradesh,ETAWAH,Bangur,50
+FGN,Uttar Pradesh,FAIZABAD,Bangur,50
+FGN,Uttar Pradesh,FAIZABAD,Shree,50
+FGN,Uttar Pradesh,FARUKKHABAD,Bangur,50
+FGN,Uttar Pradesh,FARUKKHABAD,Shree,50
+FGN,Uttar Pradesh,FEROZABAD,Bangur,50
+FGN,Uttar Pradesh,GHAZIABAD,Bangur,50
+FGN,Uttar Pradesh,GHAZIABAD,Rockstrong,50
+FGN,Uttar Pradesh,GHAZIABAD,Shree,50
+FGN,Uttar Pradesh,GONDA,Shree,50
+FGN,Uttar Pradesh,GORAKHPUR,Bangur,50
+FGN,Uttar Pradesh,GORAKHPUR,Shree,50
+FGN,Uttar Pradesh,HARDOI,Bangur,50
+FGN,Uttar Pradesh,JALAUN,Bangur,50
+FGN,Uttar Pradesh,JHANSI,Shree,50
+FGN,Uttar Pradesh,KANPUR NAGAR,Bangur,50
+FGN,Uttar Pradesh,KANPUR NAGAR,Shree,50
+FGN,Uttar Pradesh,LUCKNOW,Bangur,50
+FGN,Uttar Pradesh,LUCKNOW,Shree,50
+FGN,Uttar Pradesh,MATHURA,Shree,50
+FGN,Uttar Pradesh,MEERUT,Shree,50
+FGN,Uttar Pradesh,MORADABAD,Bangur,50
+FGN,Uttar Pradesh,RAEBARELI,Shree,50.83833333
+FGN,Uttar Pradesh,RAMPUR,Rockstrong,50
+FGN,Uttar Pradesh,RAMPUR,Shree,50
+FGN,Uttar Pradesh,SAHARANPUR,Shree,50
+FGN,Uttar Pradesh,SHAHJAHANPUR,Bangur,50
+FGN,Uttar Pradesh,SHAHJAHANPUR,Shree,50
+FGN,Uttar Pradesh,SHAMLI,Shree,50
+FGN,Uttar Pradesh,SITAPUR,Bangur,50
+FGN,Uttar Pradesh,SITAPUR,Shree,50
+FGN,Uttar Pradesh,SULTANPUR,Shree,50
+FGN,Uttranchal,UDHAM SINGH NAGAR,Bangur,50
+FGN,Uttranchal,UDHAM SINGH NAGAR,Rockstrong,50
+FGN,Uttranchal,UDHAM SINGH NAGAR,Shree,50
+FGO,Odisha,ANGUL,Bangur,50
+FGO,Odisha,ANGUL,Shree,60.63333333
+FGO,Odisha,BALESWAR,Bangur,50
+FGO,Odisha,BALESWAR,Shree,50
+FGO,Odisha,BHADRAK,Bangur,50
+FGO,Odisha,BHADRAK,Shree,50
+FGO,Odisha,CUTTACK,Bangur,50
+FGO,Odisha,CUTTACK,Shree,101.3941333
+FGO,Odisha,DHENKANAL,Bangur,50
+FGO,Odisha,DHENKANAL,Shree,50
+FGO,Odisha,GAJAPATI,Shree,50
+FGO,Odisha,GANJAM,Bangur,50
+FGO,Odisha,GANJAM,Shree,50
+FGO,Odisha,JAGATSINGHAPUR,Bangur,50
+FGO,Odisha,JAGATSINGHAPUR,Shree,50
+FGO,Odisha,JAJAPUR,Bangur,50
+FGO,Odisha,JAJAPUR,Shree,62.46666667
+FGO,Odisha,KANDHAMAL,Bangur,50
+FGO,Odisha,KANDHAMAL,Shree,50
+FGO,Odisha,KENDRAPARA,Bangur,50
+FGO,Odisha,KENDRAPARA,Shree,50
+FGO,Odisha,KENDUJHAR,Bangur,50
+FGO,Odisha,KENDUJHAR,Shree,52.5
+FGO,Odisha,KHORDA,Bangur,67.4
+FGO,Odisha,KHORDA,Shree,115.1333333
+FGO,Odisha,NAYAGARH,Bangur,50
+FGO,Odisha,NAYAGARH,Shree,50
+FGO,Odisha,PURI,Bangur,50
+FGO,Odisha,PURI,Shree,50
+FGP,Chandigarh,CHANDIGARH,Shree,50
+FGP,Haryana,AMBALA,Bangur,55.76666667
+FGP,Haryana,AMBALA,Rockstrong,50
+FGP,Haryana,AMBALA,Shree,184.8
+FGP,Haryana,FATEHABAD,Bangur,50
+FGP,Haryana,FATEHABAD,Rockstrong,50
+FGP,Haryana,HISSAR,Bangur,50
+FGP,Haryana,HISSAR,Shree,50
+FGP,Haryana,JIND,Bangur,50
+FGP,Haryana,JIND,Rockstrong,50
+FGP,Haryana,JIND,Shree,50
+FGP,Haryana,KAITHAL,Bangur,50
+FGP,Haryana,KAITHAL,Rockstrong,50
+FGP,Haryana,KAITHAL,Shree,61.8
+FGP,Haryana,KARNAL,Bangur,51.38333333
+FGP,Haryana,KARNAL,Rockstrong,50
+FGP,Haryana,KARNAL,Shree,148.7866667
+FGP,Haryana,KURUKSHETRA,Bangur,50
+FGP,Haryana,KURUKSHETRA,Rockstrong,50
+FGP,Haryana,KURUKSHETRA,Shree,71.3
+FGP,Haryana,PANCHKULA,Bangur,50
+FGP,Haryana,PANCHKULA,Rockstrong,50
+FGP,Haryana,PANCHKULA,Shree,58.2
+FGP,Haryana,PANIPAT,Bangur,81.78333333
+FGP,Haryana,PANIPAT,Rockstrong,50
+FGP,Haryana,PANIPAT,Shree,95.84186667
+FGP,Haryana,SONEPAT,Bangur,108.0583333
+FGP,Haryana,SONEPAT,Rockstrong,50
+FGP,Haryana,SONEPAT,Shree,117.6833333
+FGP,Haryana,YAMUNA NAGAR,Bangur,81.43333333
+FGP,Haryana,YAMUNA NAGAR,Rockstrong,50.21666667
+FGP,Haryana,YAMUNA NAGAR,Shree,216.4166667
+FGP,Himachal Pradesh,LAHAUL SPITI,Shree,50
+FGP,Himachal Pradesh,SIRMAUR,Bangur,50
+FGP,Himachal Pradesh,SIRMAUR,Rockstrong,50
+FGP,Himachal Pradesh,SIRMAUR,Shree,50
+FGP,Himachal Pradesh,SOLAN,Bangur,53.28333333
+FGP,Himachal Pradesh,SOLAN,Shree,50
+FGP,Punjab,FATEHGARH SAHIB,Bangur,50
+FGP,Punjab,FATEHGARH SAHIB,Rockstrong,50
+FGP,Punjab,FATEHGARH SAHIB,Shree,63.5
+FGP,Punjab,HOSHIARPUR,Bangur,50
+FGP,Punjab,HOSHIARPUR,Shree,50
+FGP,Punjab,LUDHIANA,Bangur,50
+FGP,Punjab,LUDHIANA,Shree,50
+FGP,Punjab,MOHALI,Bangur,50
+FGP,Punjab,MOHALI,Rockstrong,50
+FGP,Punjab,MOHALI,Shree,234.9666667
+FGP,Punjab,PATIALA,Bangur,50
+FGP,Punjab,PATIALA,Rockstrong,50
+FGP,Punjab,PATIALA,Shree,184.6666667
+FGP,Punjab,ROPAR,Bangur,50
+FGP,Punjab,ROPAR,Rockstrong,50
+FGP,Punjab,ROPAR,Shree,77.43333333
+FGP,Rajasthan,PALI,Bangur,50
+FGP,Rajasthan,PALI,Shree,50
+FGP,Uttar Pradesh,BAGHPAT,Bangur,50
+FGP,Uttar Pradesh,BAGHPAT,Rockstrong,50
+FGP,Uttar Pradesh,BAGHPAT,Shree,50
+FGP,Uttar Pradesh,MEERUT,Bangur,50
+FGP,Uttar Pradesh,MUZAFFARNAGAR,Bangur,50
+FGP,Uttar Pradesh,MUZAFFARNAGAR,Rockstrong,50
+FGP,Uttar Pradesh,MUZAFFARNAGAR,Shree,59.51666667
+FGP,Uttar Pradesh,SHAMLI,Bangur,50
+FGP,Uttar Pradesh,SHAMLI,Rockstrong,50
+FGP,Uttar Pradesh,SHAMLI,Shree,50
+FGQ,Bihar,ARARIA,Bangur,88.56
+FGQ,Bihar,ARARIA,Shree,50
+FGQ,Bihar,BANKA,Bangur,50
+FGQ,Bihar,BANKA,Shree,161.1
+FGQ,Bihar,BEGUSARAI,Bangur,50
+FGQ,Bihar,BEGUSARAI,Shree,50
+FGQ,Bihar,BHAGALPUR,Bangur,69.33
+FGQ,Bihar,BHAGALPUR,Shree,62.06666667
+FGQ,Bihar,DARBHANGA,Bangur,50
+FGQ,Bihar,DARBHANGA,Shree,50
+FGQ,Bihar,EAST CHAMPARAN,Bangur,85.56
+FGQ,Bihar,EAST CHAMPARAN,Shree,85.86
+FGQ,Bihar,JAMUI,Bangur,50
+FGQ,Bihar,JAMUI,Shree,50
+FGQ,Bihar,KATIHAR,Bangur,50
+FGQ,Bihar,KATIHAR,Shree,110.36
+FGQ,Bihar,KHAGARIA,Bangur,50
+FGQ,Bihar,KHAGARIA,Shree,54.21666667
+FGQ,Bihar,KISHANGANJ,Bangur,105.8266667
+FGQ,Bihar,KISHANGANJ,Shree,102.3933333
+FGQ,Bihar,LAKHISARAI,Bangur,50
+FGQ,Bihar,LAKHISARAI,Shree,50
+FGQ,Bihar,MADHEPURA,Bangur,88.96333333
+FGQ,Bihar,MADHEPURA,Shree,50
+FGQ,Bihar,MUZAFFARPUR,Bangur,50
+FGQ,Bihar,MUZAFFARPUR,Shree,50
+FGQ,Bihar,NAWADA,Bangur,50
+FGQ,Bihar,NAWADA,Shree,50
+FGQ,Bihar,PURNEA,Bangur,113.0666667
+FGQ,Bihar,PURNEA,Shree,154.52
+FGQ,Bihar,SAHARSA,Bangur,50
+FGQ,Bihar,SAHARSA,Shree,50
+FGQ,Bihar,SARAN,Shree,85.76
+FGQ,Bihar,SEIKHPURA,Shree,50
+FGQ,Bihar,SIWAN,Bangur,85.76
+FGQ,Bihar,SIWAN,Shree,85.66
+FGQ,Bihar,SUPAUL,Bangur,50
+FGQ,Bihar,SUPAUL,Shree,50
+FGQ,Bihar,VAISHALI,Bangur,91.56
+FGQ,Bihar,WEST CHAMPARAN,Bangur,50
+FGQ,Bihar,WEST CHAMPARAN,Shree,50
+FGQ,Jharkhand,BOKARO,Bangur,50
+FGQ,Jharkhand,BOKARO,Shree,51.03333333
+FGQ,Jharkhand,CHATRA,Bangur,50
+FGQ,Jharkhand,CHATRA,Shree,59.16666667
+FGQ,Jharkhand,DEOGHAR,Bangur,50
+FGQ,Jharkhand,DEOGHAR,Shree,50
+FGQ,Jharkhand,DHANBAD,Bangur,50
+FGQ,Jharkhand,DHANBAD,Shree,83.26666667
+FGQ,Jharkhand,DUMKA,Shree,50
+FGQ,Jharkhand,EAST SINGHBHUM,Bangur,206.6666667
+FGQ,Jharkhand,EAST SINGHBHUM,Shree,211.4666667
+FGQ,Jharkhand,GARHWA,Bangur,186.3333333
+FGQ,Jharkhand,GARHWA,Shree,154.4
+FGQ,Jharkhand,GIRIDH,Bangur,61.66666667
+FGQ,Jharkhand,GIRIDH,Shree,147.2
+FGQ,Jharkhand,GODDA,Bangur,50
+FGQ,Jharkhand,GODDA,Shree,50
+FGQ,Jharkhand,GUMLA,Bangur,153.5666667
+FGQ,Jharkhand,GUMLA,Shree,190
+FGQ,Jharkhand,HAZARIBAG,Bangur,50
+FGQ,Jharkhand,HAZARIBAG,Shree,50
+FGQ,Jharkhand,JAMTARA,Bangur,50
+FGQ,Jharkhand,JAMTARA,Shree,50
+FGQ,Jharkhand,KHUNTI,Bangur,50
+FGQ,Jharkhand,KHUNTI,Shree,50
+FGQ,Jharkhand,KODERMA,Bangur,50
+FGQ,Jharkhand,KODERMA,Shree,50
+FGQ,Jharkhand,LATEHAR,Bangur,50
+FGQ,Jharkhand,LATEHAR,Shree,50
+FGQ,Jharkhand,LOHARDAGA,Bangur,65
+FGQ,Jharkhand,LOHARDAGA,Shree,94.23333333
+FGQ,Jharkhand,PAKUR,Bangur,50
+FGQ,Jharkhand,PAKUR,Shree,50
+FGQ,Jharkhand,PALAMAU,Bangur,69.26666667
+FGQ,Jharkhand,PALAMAU,Shree,152.4333333
+FGQ,Jharkhand,RAMGARH,Bangur,51.16666667
+FGQ,Jharkhand,RAMGARH,Shree,50
+FGQ,Jharkhand,RANCHI,Bangur,306.5333333
+FGQ,Jharkhand,RANCHI,Shree,273.4
+FGQ,Jharkhand,SAHIBGANJ,Bangur,50
+FGQ,Jharkhand,SAHIBGANJ,Shree,56.73333333
+FGQ,Jharkhand,SERAIKELA KHARSAWAN,Bangur,50
+FGQ,Jharkhand,SERAIKELA KHARSAWAN,Shree,50
+FGQ,Jharkhand,SIMDEGA,Bangur,50
+FGQ,Jharkhand,SIMDEGA,Shree,50
+FGQ,Jharkhand,WEST SINGHBHUM,Bangur,91.83333333
+FGQ,Jharkhand,WEST SINGHBHUM,Shree,110.2
+FGQ,Odisha,BALESWAR,Bangur,50
+FGQ,Odisha,BALESWAR,Shree,50
+FGQ,Odisha,MAYURBHANJ,Bangur,66.03333333
+FGQ,Odisha,MAYURBHANJ,Shree,50
+FGQ,West Bengal,BANKURA,Bangur,68.79666667
+FGQ,West Bengal,BANKURA,Shree,51.36333333
+FGQ,West Bengal,BARDHAMAN,Bangur,113.1266667
+FGQ,West Bengal,BARDHAMAN,Shree,187.22
+FGQ,West Bengal,BIRBHUM,Bangur,50
+FGQ,West Bengal,BIRBHUM,Shree,65.61333333
+FGQ,West Bengal,DARJEELING,Bangur,50
+FGQ,West Bengal,EAST MIDNAPORE,Bangur,50
+FGQ,West Bengal,EAST MIDNAPORE,Shree,50
+FGQ,West Bengal,HOOGHLY,Bangur,180.4233333
+FGQ,West Bengal,HOOGHLY,Shree,81.1
+FGQ,West Bengal,HOWRAH,Bangur,50
+FGQ,West Bengal,KOLKATA,Shree,180.745
+FGQ,West Bengal,MALDA,Bangur,91.16
+FGQ,West Bengal,MALDA,Shree,50
+FGQ,West Bengal,MURSHIDABAD,Shree,116.0033333
+FGQ,West Bengal,NADIA,Bangur,50
+FGQ,West Bengal,NADIA,Shree,50
+FGQ,West Bengal,NORTH 24 PARAGANAS,Bangur,50
+FGQ,West Bengal,NORTH 24 PARAGANAS,Shree,50
+FGQ,West Bengal,NORTH DINAJPUR,Bangur,137.29
+FGQ,West Bengal,PURULIA,Bangur,69.49333333
+FGQ,West Bengal,PURULIA,Shree,137.1946667
+FGQ,West Bengal,SOUTH 24 PARGANAS,Bangur,129
+FGQ,West Bengal,SOUTH 24 PARGANAS,Shree,50
+FGQ,West Bengal,WEST MIDNAPORE,Bangur,50
+FGQ,West Bengal,WEST MIDNAPORE,Shree,50
+FGR,BANASKANTA,BHABHAR,Bangur,50
+FGR,Gujarat,AHMEDABAD,Bangur,50
+FGR,Gujarat,AHMEDABAD,Shree,109.1166667
+FGR,Gujarat,ANAND,Shree,50
+FGR,Gujarat,BANASKANTA,Bangur,50
+FGR,Gujarat,BANASKANTA,Shree,50
+FGR,Gujarat,CHHOTA UDAIPUR,Shree,50
+FGR,Gujarat,DAHOD,Shree,50
+FGR,Gujarat,GANDHINAGAR,Bangur,50
+FGR,Gujarat,GANDHINAGAR,Shree,50
+FGR,Gujarat,KHEDA,Bangur,50
+FGR,Gujarat,KHEDA,Shree,50
+FGR,Gujarat,KUTCH,Shree,50
+FGR,Gujarat,MAHISAGAR,Shree,50
+FGR,Gujarat,MEHSANA,Bangur,50
+FGR,Gujarat,MEHSANA,Shree,50
+FGR,Gujarat,PANCHMAHAL,Bangur,50
+FGR,Gujarat,PANCHMAHAL,Shree,50
+FGR,Gujarat,PATAN,Bangur,50
+FGR,Gujarat,PATAN,Shree,50
+FGR,Gujarat,SABARKANTHA,Bangur,50
+FGR,Gujarat,SABARKANTHA,Shree,50
+FGR,Gujarat,VADODARA,Bangur,50
+FGR,Gujarat,VADODARA,Shree,50
+FGR,Haryana,BHIWANI,Bangur,50
+FGR,Haryana,BHIWANI,Rockstrong,50
+FGR,Haryana,BHIWANI,Shree,50
+FGR,Haryana,CHARKHI DADRI,Bangur,50
+FGR,Haryana,CHARKHI DADRI,Rockstrong,50
+FGR,Haryana,CHARKHI DADRI,Shree,50
+FGR,Haryana,FARIDABAD,Bangur,50
+FGR,Haryana,FATEHABAD,Bangur,50
+FGR,Haryana,FATEHABAD,Rockstrong,50
+FGR,Haryana,FATEHABAD,Shree,50
+FGR,Haryana,GURGAON,Bangur,50
+FGR,Haryana,GURGAON,Rockstrong,50
+FGR,Haryana,GURGAON,Shree,50
+FGR,Haryana,HISSAR,Bangur,50
+FGR,Haryana,HISSAR,Rockstrong,50
+FGR,Haryana,HISSAR,Shree,50
+FGR,Haryana,JHAJJAR,Rockstrong,50
+FGR,Haryana,JHAJJAR,Shree,50
+FGR,Haryana,JIND,Bangur,50
+FGR,Haryana,JIND,Rockstrong,50
+FGR,Haryana,JIND,Shree,50
+FGR,Haryana,KAITHAL,Bangur,50
+FGR,Haryana,KAITHAL,Rockstrong,50
+FGR,Haryana,KAITHAL,Shree,50
+FGR,Haryana,KARNAL,Rockstrong,50
+FGR,Haryana,KARNAL,Shree,50
+FGR,Haryana,KURUKSHETRA,Bangur,50
+FGR,Haryana,KURUKSHETRA,Rockstrong,50
+FGR,Haryana,MAHENDRAGARH,Bangur,50
+FGR,Haryana,MAHENDRAGARH,Rockstrong,50
+FGR,Haryana,MAHENDRAGARH,Shree,50
+FGR,Haryana,MEWAT,Bangur,50
+FGR,Haryana,MEWAT,Shree,50
+FGR,Haryana,PALWAL,Bangur,50
+FGR,Haryana,PALWAL,Shree,50
+FGR,Haryana,PANCHKULA,Rockstrong,50
+FGR,Haryana,PANIPAT,Bangur,50
+FGR,Haryana,PANIPAT,Shree,50
+FGR,Haryana,REWARI,Rockstrong,50
+FGR,Haryana,REWARI,Shree,50
+FGR,Haryana,ROHTAK,Bangur,50
+FGR,Haryana,ROHTAK,Rockstrong,50
+FGR,Haryana,ROHTAK,Shree,50
+FGR,Haryana,SIRSA,Bangur,50
+FGR,Haryana,SIRSA,Rockstrong,71.08333333
+FGR,Haryana,SIRSA,Shree,50
+FGR,Haryana,SONEPAT,Rockstrong,50
+FGR,Haryana,SONEPAT,Shree,50
+FGR,Haryana,YAMUNA NAGAR,Rockstrong,50
+FGR,Haryana,YAMUNA NAGAR,Shree,50
+FGR,Punjab,BHATINDA,Bangur,50
+FGR,Punjab,BHATINDA,Rockstrong,50
+FGR,Punjab,BHATINDA,Shree,50
+FGR,Punjab,LUDHIANA,Shree,50
+FGR,Punjab,MALERKOTLA,Shree,50
+FGR,Punjab,MANSA,Bangur,50
+FGR,Punjab,MANSA,Rockstrong,50
+FGR,Punjab,MANSA,Shree,50
+FGR,Punjab,MOHALI,Bangur,50
+FGR,Punjab,MOHALI,Rockstrong,50
+FGR,Punjab,MOHALI,Shree,50
+FGR,Punjab,MUKTSAR,Bangur,50
+FGR,Punjab,PATIALA,Bangur,50
+FGR,Punjab,PATIALA,Rockstrong,50
+FGR,Punjab,PATIALA,Shree,50
+FGR,Punjab,ROPAR,Bangur,50
+FGR,Punjab,ROPAR,Shree,50
+FGR,Punjab,SANGRUR,Bangur,50
+FGR,Punjab,SANGRUR,Rockstrong,50
+FGR,Punjab,SANGRUR,Shree,50
+FGR,Rajasthan,AJMER,Bangur,50
+FGR,Rajasthan,AJMER,Rockstrong,50
+FGR,Rajasthan,AJMER,Shree,50
+FGR,Rajasthan,ALWAR,Bangur,50
+FGR,Rajasthan,ALWAR,Rockstrong,50
+FGR,Rajasthan,ALWAR,Shree,50
+FGR,Rajasthan,BANSWARA,Shree,50
+FGR,Rajasthan,BARMER,Bangur,50
+FGR,Rajasthan,BARMER,Rockstrong,50
+FGR,Rajasthan,BARMER,Shree,50
+FGR,Rajasthan,BHARATPUR,Bangur,50
+FGR,Rajasthan,BHARATPUR,Rockstrong,50
+FGR,Rajasthan,BHARATPUR,Shree,50
+FGR,Rajasthan,BHILWARA,Rockstrong,50
+FGR,Rajasthan,BHILWARA,Shree,50
+FGR,Rajasthan,BIKANER,Shree,50
+FGR,Rajasthan,CHITTORGARH,Rockstrong,50
+FGR,Rajasthan,CHITTORGARH,Shree,50
+FGR,Rajasthan,CHURU,Rockstrong,50
+FGR,Rajasthan,CHURU,Shree,50
+FGR,Rajasthan,DHOLPUR,Rockstrong,50
+FGR,Rajasthan,DHOLPUR,Shree,50
+FGR,Rajasthan,JAIPUR,Shree,50
+FGR,Rajasthan,JAISALMER,Shree,50
+FGR,Rajasthan,JALORE,Bangur,50
+FGR,Rajasthan,JALORE,Rockstrong,50
+FGR,Rajasthan,JALORE,Shree,50
+FGR,Rajasthan,JHUNJHUNU,Bangur,50
+FGR,Rajasthan,JHUNJHUNU,Rockstrong,50
+FGR,Rajasthan,JHUNJHUNU,Shree,165.8346667
+FGR,Rajasthan,JODHPUR,Bangur,50
+FGR,Rajasthan,JODHPUR,Rockstrong,50
+FGR,Rajasthan,JODHPUR,Shree,50
+FGR,Rajasthan,KAROLI,Shree,50
+FGR,Rajasthan,KOTA,Shree,50
+FGR,Rajasthan,NAGAUR,Bangur,50
+FGR,Rajasthan,NAGAUR,Rockstrong,50
+FGR,Rajasthan,NAGAUR,Shree,50
+FGR,Rajasthan,PALI,Bangur,746.6171
+FGR,Rajasthan,PALI,Rockstrong,1516.456667
+FGR,Rajasthan,PALI,Shree,4494.237
+FGR,Rajasthan,SAWAIMADHOPUR,Bangur,50
+FGR,Rajasthan,SAWAIMADHOPUR,Shree,50
+FGR,Rajasthan,SIKAR,Rockstrong,50
+FGR,Rajasthan,SIKAR,Shree,50
+FGR,Rajasthan,SIROHI,Bangur,50
+FGR,Rajasthan,SIROHI,Shree,50
+FGR,Rajasthan,TONK,Rockstrong,50
+FGR,Rajasthan,TONK,Shree,50
+FGR,Uttar Pradesh,ALIGARH,Bangur,50
+FGR,Uttar Pradesh,ALIGARH,Rockstrong,50
+FGR,Uttar Pradesh,AMROHA,Bangur,50
+FGR,Uttar Pradesh,AMROHA,Rockstrong,50
+FGR,Uttar Pradesh,AMROHA,Shree,50
+FGR,Uttar Pradesh,AURAIYA,Bangur,50
+FGR,Uttar Pradesh,AURAIYA,Shree,50
+FGR,Uttar Pradesh,BADAUN,Rockstrong,50
+FGR,Uttar Pradesh,BADAUN,Shree,50
+FGR,Uttar Pradesh,BIJNOR,Bangur,50
+FGR,Uttar Pradesh,BIJNOR,Rockstrong,50
+FGR,Uttar Pradesh,BIJNOR,Shree,50
+FGR,Uttar Pradesh,BULLAND SHAHAR,Rockstrong,50
+FGR,Uttar Pradesh,BULLAND SHAHAR,,50
+FGR,Uttar Pradesh,BULLAND SHAHAR,Shree,50
+FGR,Uttar Pradesh,ETAH,Shree,50
+FGR,Uttar Pradesh,FARUKKHABAD,Rockstrong,50
+FGR,Uttar Pradesh,FARUKKHABAD,Shree,50
+FGR,Uttar Pradesh,GHAZIABAD,Shree,50
+FGR,Uttar Pradesh,HATHRAS,Shree,50
+FGR,Uttar Pradesh,J.P.NAGAR,Bangur,50
+FGR,Uttar Pradesh,J.P.NAGAR,Shree,50
+FGR,Uttar Pradesh,KANSHIRAM NAGAR,Bangur,50
+FGR,Uttar Pradesh,KANSHIRAM NAGAR,Shree,50
+FGR,Uttar Pradesh,MAINPURI,Bangur,50
+FGR,Uttar Pradesh,MAINPURI,Shree,50
+FGR,Uttar Pradesh,MATHURA,Bangur,50
+FGR,Uttar Pradesh,MATHURA,Rockstrong,50
+FGR,Uttar Pradesh,MORADABAD,Bangur,50
+FGR,Uttar Pradesh,MORADABAD,Rockstrong,50
+FGR,Uttar Pradesh,MORADABAD,Shree,50
+FGR,Uttar Pradesh,MUZAFFARNAGAR,Bangur,50
+FGR,Uttar Pradesh,MUZAFFARNAGAR,Rockstrong,50
+FGR,Uttar Pradesh,PILIBHIT,Rockstrong,50
+FGR,Uttar Pradesh,RAMPUR,Bangur,50
+FGR,Uttar Pradesh,RAMPUR,Rockstrong,50
+FGR,Uttar Pradesh,RAMPUR,Shree,50
+FGR,Uttar Pradesh,SAHARANPUR,Rockstrong,50
+FGR,Uttar Pradesh,SAHARANPUR,Shree,50
+FGR,Uttar Pradesh,SAMBHAL,Bangur,50
+FGR,Uttar Pradesh,SAMBHAL,Rockstrong,50
+FGR,Uttar Pradesh,SAMBHAL,Shree,50
+FGR,Uttranchal,NENITAL (UTT),Bangur,50
+FGR,Uttranchal,NENITAL (UTT),Shree,50
+FGR,Uttranchal,POODI GADWAL,Bangur,50
+FGR,Uttranchal,UDHAM SINGH NAGAR,Bangur,50
+FGR,Uttranchal,UDHAM SINGH NAGAR,Shree,50
+FGS,Haryana,FATEHABAD,Bangur,50
+FGS,Haryana,FATEHABAD,Rockstrong,50
+FGS,Haryana,FATEHABAD,Shree,59.73333333
+FGS,Haryana,HISSAR,Bangur,50
+FGS,Haryana,HISSAR,Rockstrong,50
+FGS,Haryana,HISSAR,Shree,107.5
+FGS,Haryana,SIRSA,Bangur,75.7
+FGS,Haryana,SIRSA,Rockstrong,52.73333333
+FGS,Haryana,SIRSA,Shree,64.3
+FGS,Himachal Pradesh,KANGRA,Bangur,50
+FGS,Himachal Pradesh,KANGRA,Shree,50
+FGS,Himachal Pradesh,UNA,Bangur,50
+FGS,Himachal Pradesh,UNA,Shree,50
+FGS,Punjab,AMRITSAR,Bangur,50
+FGS,Punjab,AMRITSAR,Rockstrong,50
+FGS,Punjab,AMRITSAR,Shree,73.13333333
+FGS,Punjab,BARNALA,Bangur,50
+FGS,Punjab,BARNALA,Rockstrong,50
+FGS,Punjab,BARNALA,Shree,50
+FGS,Punjab,BHATINDA,Bangur,160
+FGS,Punjab,BHATINDA,Rockstrong,64.5
+FGS,Punjab,BHATINDA,Shree,119.2333333
+FGS,Punjab,FARIDKOT,Bangur,50
+FGS,Punjab,FARIDKOT,Rockstrong,50
+FGS,Punjab,FARIDKOT,Shree,60.13333333
+FGS,Punjab,FATEHGARH SAHIB,Shree,50
+FGS,Punjab,FAZILKA,Bangur,50
+FGS,Punjab,FAZILKA,Rockstrong,50
+FGS,Punjab,FAZILKA,Shree,50
+FGS,Punjab,FEROZEPUR,Bangur,50
+FGS,Punjab,FEROZEPUR,Shree,50
+FGS,Punjab,GURDASPUR,Bangur,150.7
+FGS,Punjab,GURDASPUR,Rockstrong,50
+FGS,Punjab,GURDASPUR,Shree,383.2333333
+FGS,Punjab,HOSHIARPUR,Bangur,50
+FGS,Punjab,HOSHIARPUR,Rockstrong,50
+FGS,Punjab,HOSHIARPUR,Shree,125.525
+FGS,Punjab,JALLANDHAR,Bangur,50
+FGS,Punjab,JALLANDHAR,Rockstrong,50
+FGS,Punjab,JALLANDHAR,Shree,152.5833333
+FGS,Punjab,KAPURTHALA,Rockstrong,50
+FGS,Punjab,KAPURTHALA,Shree,50
+FGS,Punjab,LUDHIANA,Bangur,50
+FGS,Punjab,LUDHIANA,Rockstrong,50
+FGS,Punjab,LUDHIANA,Shree,271.7
+FGS,Punjab,MALERKOTLA,Bangur,50
+FGS,Punjab,MALERKOTLA,Shree,50
+FGS,Punjab,MANSA,Bangur,50
+FGS,Punjab,MANSA,Rockstrong,51.3
+FGS,Punjab,MANSA,Shree,50
+FGS,Punjab,MOGA,Bangur,50
+FGS,Punjab,MOGA,Rockstrong,50
+FGS,Punjab,MOGA,Shree,50
+FGS,Punjab,MUKTSAR,Bangur,50
+FGS,Punjab,MUKTSAR,Rockstrong,50
+FGS,Punjab,MUKTSAR,Shree,57.13333333
+FGS,Punjab,NAWANSHAHAR,Shree,50
+FGS,Punjab,PATHANKOT,Bangur,50
+FGS,Punjab,PATHANKOT,Rockstrong,50
+FGS,Punjab,PATHANKOT,Shree,50
+FGS,Punjab,PATIALA,Shree,50
+FGS,Punjab,SANGRUR,Bangur,60.46666667
+FGS,Punjab,SANGRUR,Rockstrong,50
+FGS,Punjab,SANGRUR,Shree,77.03333333
+FGS,Punjab,TARANTAARAN,Bangur,50
+FGS,Punjab,TARANTAARAN,Rockstrong,50
+FGS,Punjab,TARANTAARAN,Shree,50
+FGS,Rajasthan,BIKANER,Bangur,50
+FGS,Rajasthan,BIKANER,Rockstrong,50
+FGS,Rajasthan,BIKANER,Shree,50
+FGS,Rajasthan,CHURU,Bangur,50
+FGS,Rajasthan,CHURU,Shree,50
+FGS,Rajasthan,HANUMANGARH,Bangur,50
+FGS,Rajasthan,HANUMANGARH,Rockstrong,50
+FGS,Rajasthan,HANUMANGARH,Shree,50
+FGS,Rajasthan,JHUNJHUNU,Bangur,50
+FGS,Rajasthan,JHUNJHUNU,Shree,50
+FGS,Rajasthan,SIKAR,Bangur,50
+FGS,Rajasthan,SIKAR,Shree,50
+FGS,Rajasthan,SRIGANGANAGAR,Bangur,50
+FGS,Rajasthan,SRIGANGANAGAR,Rockstrong,50
+FGS,Rajasthan,SRIGANGANAGAR,Shree,58.171

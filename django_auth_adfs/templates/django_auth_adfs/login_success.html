@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login Success</title>
+  <style>
+    #message {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      width: 30em;
+      height: 3em;
+      margin-top: -9em;
+      margin-left: -15em;
+      border: 1px solid #ccc;
+      background-color: #f3f3f3;
+      font-family: Lato, proxima-nova, Helvetica Neue, Arial, sans-serif;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      flex-direction: column;
+    }
+  </style>
+</head>
+<body>
+<div id="message">
+  <strong>{{ message }}...</strong>
+</div>
+</body>
+<script>
+  localStorage.setItem("user_persona", '{{ user_persona | safe }}');
+  localStorage.setItem("access_token", '{{ access_token }}');
+  window.location.replace("{{ redirect_url }}");
+</script>
+</html>
